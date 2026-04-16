@@ -38,22 +38,50 @@ p {
 
 /* Compleate challenge down here */
 
-.yellow {
-  background-color: yellow;
-}
-
-.green {
-  background-color: green;
-}
-
-.blue {
-  background-color: blue;
-}
-
-.red {
-  background-color: red;
-}
-
-div {
+.size {
   display: inline-block;
+  height: 40vh;
+  width: 24vw;
+}
+
+.orange {
+  background-color: orange;
+  height: 100vh;
+  color: white;
+  font-size: 2rem;
+  padding: 1rem;
+  border: thick aqua solid;
+  font-weight: bold;
+  font-style: italic;
+}
+
+.purple {
+  background-color: purple;
+  height: 100vh;
+  color: white;
+  font-size: 2rem;
+  padding: 1rem;
+}
+
+.pink {
+  background-color: pink;
+  height: 100vh;
+  color: white;
+  font-size: 2rem;
+  padding: 1rem;
+
+}
+
+.black {
+  background-color: black;
+  height: 100vh;
+  color: white;
+  font-size: 2rem;
+  padding: 1rem;
+}
+
+.styleh2 {
+  font-size: 3vw;
+  margin-bottom: 2vh;
+  color: lightseagreen;
 }

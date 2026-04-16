@@ -89,13 +89,12 @@ Drag your browser window from very wide to very narrow and back again. Then writ
 
 1. Which parts of your layout stayed flexible?
 
-
+The four boxes that used view height and distinct background colors that fit throughout the screen.
 
 2. Did anything break or overflow (cause a sliding bar to apperer)?
 
-
+Nothing really broke but some boxes were bigger than others because of slight errors which I fixed when I saw them in the live server.
 
 3. If someone opened this page on a phone, what do you think it would look like?
 
-
-
+It would fit along the phone screen, sinc ebeing flexible with the viewpoint units can make it so every screen can access the website.
